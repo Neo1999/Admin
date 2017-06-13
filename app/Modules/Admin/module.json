@@ -1,0 +1,9 @@
+{
+	"name": "Admin",
+	"slug": "admin",
+	"namespace": "Admin",
+	"version": "1.0",
+	"author": "william2017",
+	"license": "MIT",
+	"description": "This is the description for the Admin module."
+}
